@@ -38,3 +38,33 @@ a {
     margin-left: 25px;
 }
 
+.code {
+    width: 100%;
+    height: 50%;
+    position: absolute;
+    top: 10%;
+;   left: 0;
+    opacity: 0.65;
+
+   }
+   
+
+.info {
+    display: inline-block;
+    position: relative;
+    width: 95%;
+    margin-top: 550px;
+    color: black;
+    
+
+   
+   }
+   
+   .float-left {
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-right: 25px;
+    
+}
+
