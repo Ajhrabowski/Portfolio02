@@ -66,58 +66,99 @@ a {
    /* position: absolute; */
     top: 10%;
    
-
-    
-
 }
+
+
 
 .info {
     display: flex;
     /*position: relative;*/
     width: 95%;
-    margin-top: 50px;
+    margin-top: 50;
     color: black;
    
     }
-   
+
 .left {
     width: 200px;
     height: 100px;
     font-family: 'Times New Roman', Times, serif; color: black;
     float: left;
-    border-right: 5px solid; color: blue;
+    border-right: 5px solid; color: rgb(3, 3, 3);
     margin-right: 30;
     
   
  }
 
-#homepage {
+#inline-rectangle {
 
-       position: relative;
-       height: 25%;
-       
-       
+    margin-left: 10;
+    margin-right: 25;
+    object-fit: cover;
+   
 }
 
+
+img {
+
+    
+    height: 450px;
+    
+}
+
+.coming-soon {
+    width: 200px;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif; color: black;
+    font-size: 45;
+    float: left;
+    margin-right: 30;
+
+
+}
+
+#footer {
+    position: absolute;
+  
+    width: 100%;
+    height: 15%;
+    font-size: 32;
+    
+
+
+}
  .right {
 
+    
  }
 
 
-.contact li {
-    display: inline-flex;
-    font-size: 48px;
-    width: 100%;
-    padding: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: grey;
-    color: white;
 
+.contact {
+    
+    font-size: 28px;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
 
 }
 
 
-  
+.resume {
+
+
+
+}
+
+#footer {
+    
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: grey;
+}
+
+    
  
     
 
