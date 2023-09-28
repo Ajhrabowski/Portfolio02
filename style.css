@@ -52,7 +52,7 @@ a {
 
 }
 
-#ommt {
+#one-man-many-talents {
 
     display: flex;
     margin-right: 10;
@@ -64,7 +64,7 @@ a {
 
 }
 
-#code {
+#background-image {
     width: 100%;
     height: 50%;
     background-image: url('./Assets/florian-olivo-4hbJ-eymZ1o-unsplash.jpg');
@@ -100,8 +100,8 @@ a {
 }
 
 #work {
-
-    padding-bottom: 38%;
+    
+    padding-bottom: 25.5%;
 }
 
 #inline-rectangle {
@@ -157,9 +157,6 @@ a {
     
     }
     
-    
-    
-    
     .contact {
     
         font-size: 28px;
@@ -168,7 +165,6 @@ a {
         color: rgb(231, 224, 224);
     
     }
-    
     
     #footer {
         height: 10%;
@@ -196,18 +192,21 @@ a {
     
         }
     
-        .left {
-            width: 50%;
-            margin-right: 50;
-    
-        }
+        
+            .left {
+                width: 50%;
+                margin-right: 50;
+        
+            }
     
         #Contact {
+        
+                text-decoration: none;
+                border: none;
+        
+            }
+            
     
-            text-decoration: none;
-            border: none;
-    
-        }
     
         #Tony img {
     
@@ -222,8 +221,6 @@ a {
             margin-right: 100;
             
         }
-    
-    
     
         .contact {
     
@@ -242,7 +239,6 @@ a {
             
         }
     
-    
         #ommt {
     
             width: 80%;
@@ -252,6 +248,7 @@ a {
     
         }
     
+        
         footer {
     
             width: 10%%;
@@ -261,20 +258,23 @@ a {
     
         }
     
-    @media (max-height: 600px)
+        
+        @media (max-height: 600px)
+        
+            #about {
+                width: 200%;
+                padding-bottom: 100%
+            }
+        
+        
+            .contact {
+        
+                height: 10%;
+                width: 100%;
+                margin-right: 100%;
+            }
     
-        #about {
-            width: 200%;
-            padding-bottom: 100%
-        }
     
-    
-        .contact {
-    
-            height: 10%;
-            width: 100%;
-            margin-right: 100%;
-        }
 
 
 
