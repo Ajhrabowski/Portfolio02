@@ -239,7 +239,7 @@ a {
             
         }
     
-        #ommt {
+        #one-man-many-talents {
     
             width: 80%;
             margin-bottom: 30%;
@@ -262,6 +262,7 @@ a {
         @media (max-height: 600px)
         
             #about {
+               
                 width: 200%;
                 padding-bottom: 100%
             }
