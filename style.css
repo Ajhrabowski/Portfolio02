@@ -101,16 +101,28 @@ a {
 
 #work {
     
-    padding-bottom: 25.5%;
+    padding-bottom: 50.5%;
+}
+#showcase-png{
+    
+    width: 50%;
+    box-shadow: 10px 20px 25px gray
+
 }
 
 #inline-rectangle {
     
-        object-fit: cover;
-        box-shadow: 10px 20px 25px gray
-    }
+    object-fit: cover;
+    box-shadow: 10px 20px 25px gray
+}
+
+#album-review-site-png {
+       
+    width: 50%;
+  
+}
     
-    #homepage {
+#homepage {
     
         margin-left: 30px;
         box-shadow: 10px 20px 25px gray
@@ -121,6 +133,7 @@ a {
         margin-left: 30px;
         box-shadow: 10px 20px 25px gray
     }
+
     
     img {
     

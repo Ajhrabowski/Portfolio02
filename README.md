@@ -1,35 +1,43 @@
-# Portfolio02
-A study guide for pre-work
+# PORTFOLO002
+
+## Badges
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+- [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Questions?](#questions)
+
+## License
+
+Read more about MIT here:
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Description
 
-- This project is from scratch project on a even-numbered week so we weren't given any starter code. Our goal was to create a web application from scratch! We had to build a portfolio page, which consisted of my name, recent photo, links to section about my work and how to contact me. I will continue to build on this project throughout the coarse.
+This is a project assignment for our MSU Fullstack Web Development Bootcamp. This project was a from scratch project on a even-numbered week so we weren't given any starter code. Our goal was to create a web application from scratch! We had to build a portfolio page, which consisted of my name, recent photo, links to section about my work and how to contact me. I will continue to build on this project throughout the coarse.
+
+![Alt text](<Assets/Portfolio Screenshot.png>)
 
 ## Installation
-N/A
 
-## Credits
-N/A
+Required applications:
+- Visual Studio Code: (https://code.visualstudio.com/)
+- Git for MAC/Windows/Linux: (https://git-scm.com/downloads)
 
-## License
-MIT License
+## Usage
 
-Copyright (c) [2023] [Anthony Hrabowski]
+To use, first download the above required applications in [Installation](#installation).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+- Clone the repository to your local machine.
+- After cloning the repository, open the directory using Visual Studio Code. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Contact Info:
+
+- [Anthony Hrabowski](https://github.com/Ajhrabowski)
+
