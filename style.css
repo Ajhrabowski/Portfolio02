@@ -101,28 +101,27 @@ a {
 
 #work {
     
-    padding-bottom: 50.5%;
-}
-#showcase-png{
-    
-    width: 50%;
-    box-shadow: 10px 20px 25px gray
-
+    padding-bottom: 25.5%;
 }
 
 #inline-rectangle {
     
-    object-fit: cover;
-    box-shadow: 10px 20px 25px gray
-}
+        object-fit: cover;
+        box-shadow: 10px 20px 25px gray
+    }
+
+#showcase-png {
+
+        box-shadow: 10px 20px 25px gray
+    }
 
 #album-review-site-png {
-       
-    width: 50%;
-  
-}
+
+        box-shadow: 10px 20px 25px gray
+    }
     
-#homepage {
+    
+    #homepage {
     
         margin-left: 30px;
         box-shadow: 10px 20px 25px gray
@@ -133,7 +132,6 @@ a {
         margin-left: 30px;
         box-shadow: 10px 20px 25px gray
     }
-
     
     img {
     
@@ -191,128 +189,4 @@ a {
         margin-bottom: 50;
     }
     
-    @media (max-width: 600px) {
     
-        h1 {
-            width: 25%;
-            height: 25%;
-        }
-    
-        .header div {
-    
-            width: 25%;
-            height: 25%;
-    
-        }
-    
-        
-            .left {
-                width: 50%;
-                margin-right: 50;
-        
-            }
-    
-        #Contact {
-        
-                text-decoration: none;
-                border: none;
-        
-            }
-            
-    
-    
-        #Tony img {
-    
-            height: 50px;
-            width: 50px;
-            margin-left: 200;
-            
-        }
-    
-        .coming-soon {
-            width: 50;
-            margin-right: 100;
-            
-        }
-    
-        .contact {
-    
-    
-            width: 100%;
-            margin-right: 10%;
-            border: none;
-            
-        }
-    
-        .resume {
-    
-    
-            width: 100%;
-            margin-right: 10%;
-            
-        }
-    
-        #one-man-many-talents {
-    
-            width: 80%;
-            margin-bottom: 30%;
-            margin-right: 9%;
-    
-    
-        }
-    
-        
-        footer {
-    
-            width: 10%%;
-            height: 10%;
-            margin-right: 100%;
-    
-    
-        }
-    
-        
-        @media (max-height: 600px)
-        
-            #about {
-               
-                width: 200%;
-                padding-bottom: 100%
-            }
-        
-        
-            .contact {
-        
-                height: 10%;
-                width: 100%;
-                margin-right: 100%;
-            }
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

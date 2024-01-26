@@ -10,7 +10,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions?](#questions)
+- [Contact Info](#contact-info)
 
 ## License
 
@@ -21,7 +21,7 @@ Read more about MIT here:
 
 This is a project assignment for our MSU Fullstack Web Development Bootcamp. This project was a from scratch project on a even-numbered week so we weren't given any starter code. Our goal was to create a web application from scratch! We had to build a portfolio page, which consisted of my name, recent photo, links to section about my work and how to contact me. I will continue to build on this project throughout the coarse.
 
-![Alt text](<Assets/Portfolio Screenshot.png>)
+![Alt text](<Assets/Portfolio Screenshot.png>) (https://ajhrabowski.github.io/Portfolio02/)
 
 ## Installation
 
@@ -39,5 +39,6 @@ To use, first download the above required applications in [Installation](#instal
 
 ## Contact Info:
 
-- [Anthony Hrabowski](https://github.com/Ajhrabowski)
+* ajhrabowski@gmail.com
+* https://github.com/Ajhrabowski
 
